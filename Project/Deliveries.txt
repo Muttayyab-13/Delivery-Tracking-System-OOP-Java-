@@ -1,0 +1,16 @@
+
+Order Number: 123458
+Order Destination: Lahore
+Order Details: Moved to WareHouse
+-----------
+-----------
+Order Number: 12345678
+Name: Muttayyab
+Date: 11/01/2024
+Address: Abbottabad
+Phone Number: 03055549222
+Order Number: 12345678
+Parcel Type: Package
+Order Destination: Karachi
+Order Details: Currently in Lahore
+-----------

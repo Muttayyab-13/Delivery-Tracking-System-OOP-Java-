@@ -1,0 +1,17 @@
+
+
+
+Employee Number: Me12
+Username: sir
+Password: 123
+Name: Muttayyab
+Address: abbottabad
+Phone Number: 03055549222
+-----------
+Employee Number: 3152
+Username: Muttayyab
+Password: 123
+Name: Muttayyab
+Address: lalazar
+Phone Number: 0305549222
+-----------
